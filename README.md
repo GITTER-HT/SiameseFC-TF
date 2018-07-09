@@ -116,7 +116,7 @@ If you find our work useful, please consider citing the original authors
 }
 ```
 
-## License
+## License indicate
 This code can be freely used for personal, academic, or educational purposes.
 Please contact us for commercial use.
 
